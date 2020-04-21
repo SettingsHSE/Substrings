@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/substrings/cmake-build-debug/CMakeFiles/substrings.dir
+C:/Users/sofik/CLionProjects/substrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/substrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
